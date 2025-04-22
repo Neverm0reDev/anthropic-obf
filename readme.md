@@ -1,9 +1,9 @@
-# Anthropic Python Obfuscator
+# Anthropic Obfuscator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 <p align="center">
-  <img src="https://i.imgur.com/FAf6OPR.png" alt="Anthropic Logo" width="400">
+  <img src="https://i.imgur.com/w7zj2J9.png" alt="Anthropic" width="400">
 </p>
 
 ## Overview
@@ -18,26 +18,6 @@ Anthropic is a powerful Python script obfuscator designed to protect your Python
 - **Marshal Compilation**: Compiles code and dumps it using Python's marshal module
 - **Code Camouflage**: Disguises obfuscated code with misleading class structures
 - **Cross-Platform**: Works on Windows, macOS, and Linux
-
-## Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/anthropic-obfuscator.git
-
-# Navigate to the project directory
-cd anthropic-obfuscator
-
-# Install dependencies
-pip install pystyle
-```
-
-## Usage
-
-```bash
-# Run the obfuscator
-python anthropic.py
-```
 
 1. When prompted, drag and drop the Python file you want to obfuscate into the terminal.
 2. The obfuscator will process your file through multiple layers of protection.
