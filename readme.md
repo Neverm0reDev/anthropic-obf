@@ -1,7 +1,5 @@
 # Anthropic Obfuscator
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 <p align="center">
   <img src="https://i.imgur.com/w7zj2J9.png" alt="Anthropic" width="400">
 </p>
